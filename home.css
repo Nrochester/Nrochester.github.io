@@ -440,5 +440,9 @@ align-items: center;
     .Bp2 {
         float: left;
     }
+    #lift{
+        text-align: center;
+        margin: auto;
+    }
 }
 
